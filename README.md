@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Machine translation (NLP)](Backend development)
 
-- 🌱 I’m currently learning **Django, NoteJS.**
+- 🌱 I have worked with PHP, NodeJS, EJS, Springboot, MySQL.**
 
 - 💬 Ask me about **Data structures.**
 
