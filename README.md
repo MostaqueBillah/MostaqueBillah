@@ -1,4 +1,4 @@
-# Hi there, I'm X 👋
+# Hi there, I'm Mostaque 👋
 
 ## About Me
 I am currently working as a System Analyst at bKash Limited, one of the leading tech giants in the country. I am an extremely motivated individual with a keen interest in learning new technologies and enhancing my skill set.
