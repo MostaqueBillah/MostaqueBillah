@@ -52,12 +52,6 @@ I am currently working as a System Analyst at bKash Limited, one of the leading 
 ### Full Stack Development
 - MERN Stack (MongoDB, Express.js, React, Node.js)
 
-## Projects
-Here are some of the projects I've worked on:
-- Project 1: Brief description of the project.
-- Project 2: Brief description of the project.
-- Project 3: Brief description of the project.
-
 ## Contact Me
 Feel free to reach out to me on LinkedIn(here)[https://www.linkedin.com/in/mostaque-billah-a1bb071a6/] or via email (syed.mostaque.billah@gmail.com).
 
